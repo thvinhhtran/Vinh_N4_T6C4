@@ -19,3 +19,4 @@
 
 # My Project
 💭 This is a  [yournal](https://www.yournal.life/). My team doing with the desire to eliminate negativity on social networks, where everyone can be themselves.<br/>
+Can you join with us ? 😊 <br/>
