@@ -17,3 +17,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+# My Project
+💭 This is a  [yournal](https://www.yournal.life/). My team doing with the desire to eliminate negativity on social networks, where everyone can be themselves.<br/>
